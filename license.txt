@@ -1,0 +1,142 @@
+VIBELAY END USER LICENSE AGREEMENT (EULA)
+
+Copyright © 2026 Vibelay. All Rights Reserved.
+
+PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED
+
+This End User License Agreement ("Agreement") is a legal agreement between you 
+(either an individual or a single entity, "You" or "User") and Vibelay ("Licensor") 
+for the Vibelay software application, including any associated media, printed materials, 
+and electronic documentation (the "Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY 
+THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, 
+DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. GRANT OF LICENSE
+
+Subject to the terms and conditions of this Agreement, Licensor grants You a limited, 
+non-exclusive, non-transferable, revocable license to:
+
+(a) Install and use the Software on devices You own or control
+(b) Use the Software for personal, non-commercial purposes
+
+2. TRIAL VERSION
+
+The Software is provided with a 180-day trial period from first installation. During 
+the trial period, You have access to all features of the Software. After the trial 
+period expires, certain premium features will require a Pro license.
+
+3. PRO LICENSE
+
+Premium features require a Pro license, available through:
+(a) One-time payment: $14.99 (lifetime access to Pro features)
+(b) Monthly subscription: $2.99/month (access to Pro Plus features)
+
+Pro license grants:
+- Lifetime access to video overlays
+- Lifetime access to web page overlays
+- All future updates within the major version
+- Email support
+
+4. RESTRICTIONS
+
+You may NOT:
+(a) Copy, reproduce, or distribute the Software
+(b) Modify, adapt, translate, reverse engineer, decompile, or disassemble the Software
+(c) Remove or alter any copyright, trademark, or other proprietary notices
+(d) Rent, lease, lend, sell, sublicense, or transfer the Software
+(e) Use the Software for commercial purposes without a commercial license
+(f) Create derivative works based on the Software
+(g) Use the Software in any manner that violates applicable laws or regulations
+
+5. INTELLECTUAL PROPERTY RIGHTS
+
+The Software is protected by copyright laws and international copyright treaties, 
+as well as other intellectual property laws and treaties. The Software is licensed, 
+not sold. All title and intellectual property rights in and to the Software 
+(including but not limited to any images, text, and applets incorporated into the 
+Software) are owned by Licensor.
+
+6. UPDATES AND MAINTENANCE
+
+Licensor may provide updates, patches, or enhancements to the Software at its 
+discretion. Such updates are subject to the terms of this Agreement unless 
+accompanied by a separate license agreement.
+
+7. TERMINATION
+
+This Agreement is effective until terminated. Your rights under this Agreement will 
+terminate automatically without notice if You fail to comply with any term of this 
+Agreement. Upon termination, You must:
+(a) Cease all use of the Software
+(b) Destroy all copies of the Software in Your possession or control
+
+8. PRIVACY AND DATA COLLECTION
+
+The Software collects minimal data for license verification and analytics:
+(a) A hashed machine identifier (for trial/license tracking)
+(b) Software version number
+(c) Platform information (macOS/Windows)
+(d) Installation date
+(e) Last usage date
+
+No personally identifiable information is collected. Data is stored securely and 
+never sold or shared with third parties.
+
+9. DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR 
+IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR 
+A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE 
+SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT OPERATION OF THE SOFTWARE WILL BE 
+UNINTERRUPTED OR ERROR-FREE.
+
+10. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR 
+CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS 
+OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY 
+OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, 
+EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+LICENSOR'S TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE SHALL NOT EXCEED 
+THE AMOUNT PAID BY YOU FOR THE SOFTWARE LICENSE.
+
+11. REFUND POLICY
+
+(a) Trial users: No payment required during trial period
+(b) One-time Pro license: 30-day money-back guarantee
+(c) Monthly subscription: Cancel anytime, no partial refunds for current month
+(d) Refund requests: Contact support@vibelay.com
+
+12. GOVERNING LAW
+
+This Agreement shall be governed by and construed in accordance with the laws of 
+[Your Jurisdiction], without regard to its conflict of law provisions.
+
+13. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between You and Licensor concerning 
+the Software and supersedes all prior or contemporaneous oral or written communications, 
+proposals, and representations with respect to the Software.
+
+14. SEVERABILITY
+
+If any provision of this Agreement is held to be unenforceable, such provision shall 
+be reformed only to the extent necessary to make it enforceable, and the remaining 
+provisions of this Agreement shall remain in full force and effect.
+
+15. CONTACT INFORMATION
+
+For questions about this Agreement or the Software:
+Website: https://vibelay.com
+Email: support@vibelay.com
+
+16. ACKNOWLEDGMENT
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS 
+AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
+
+Version 1.0
+Last Updated: February 24, 2026
