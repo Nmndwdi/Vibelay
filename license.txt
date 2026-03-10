@@ -1,142 +1,188 @@
 VIBELAY END USER LICENSE AGREEMENT (EULA)
+==========================================
+Copyright (c) 2026 Naman Dwivedi / Vibelay. All Rights Reserved.
 
-Copyright © 2026 Vibelay. All Rights Reserved.
+Version 1.5 — Last Updated: March 10, 2026
 
-PROPRIETARY SOFTWARE - ALL RIGHTS RESERVED
+PROPRIETARY SOFTWARE — ALL RIGHTS RESERVED
 
-This End User License Agreement ("Agreement") is a legal agreement between you 
-(either an individual or a single entity, "You" or "User") and Vibelay ("Licensor") 
-for the Vibelay software application, including any associated media, printed materials, 
-and electronic documentation (the "Software").
+This End User License Agreement ("Agreement") is a legal agreement between
+you ("You" or "User") and Naman Dwivedi / Vibelay ("Licensor") for the
+Vibelay software application, version 1.5 and onwards, including all
+associated media, documentation, and future updates ("Software").
 
-BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY 
-THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, 
-DO NOT INSTALL OR USE THE SOFTWARE.
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE
+BOUND BY THE TERMS OF THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL
+OR USE THE SOFTWARE.
+
 
 1. GRANT OF LICENSE
-
-Subject to the terms and conditions of this Agreement, Licensor grants You a limited, 
+-------------------
+Subject to the terms of this Agreement, Licensor grants You a limited,
 non-exclusive, non-transferable, revocable license to:
 
-(a) Install and use the Software on devices You own or control
-(b) Use the Software for personal, non-commercial purposes
+  - Install and use the Software on devices You own or control
+  - Use the Software for personal or professional non-commercial purposes
+
 
 2. TRIAL VERSION
+----------------
+Vibelay includes a 180-day free trial from first installation with full
+access to all features, including Color Overlays, Image Slideshows, Video
+Overlays, Web Overlays, Focus Frame, Layer Blend Modes, Global Shortcuts,
+and Launch at Login.
 
-The Software is provided with a 180-day trial period from first installation. During 
-the trial period, You have access to all features of the Software. After the trial 
-period expires, certain premium features will require a Pro license.
+After the trial period, feature access is as follows:
+
+  FREE FOREVER (no payment required):
+  - Color Overlays (13 presets + custom picker)
+  - Image Overlays & Slideshow
+  - Focus Frame (6 vignette styles)
+  - Layer Blend Modes
+
+  REQUIRES PRO LICENSE:
+  - Video Overlays
+  - Web Overlays
+
 
 3. PRO LICENSE
+--------------
+A Pro license ($14.99 one-time payment) grants:
 
-Premium features require a Pro license, available through:
-(a) One-time payment: $14.99 (lifetime access to Pro features)
-(b) Monthly subscription: $2.99/month (access to Pro Plus features)
+  - Lifetime access to Video Overlays
+  - Lifetime access to Web Overlays
+  - All future updates within major version (v1.x)
+  - Priority email support
+  - Up to 3 devices You personally own
 
-Pro license grants:
-- Lifetime access to video overlays
-- Lifetime access to web page overlays
-- All future updates within the major version
-- Email support
 
 4. RESTRICTIONS
-
+---------------
 You may NOT:
-(a) Copy, reproduce, or distribute the Software
-(b) Modify, adapt, translate, reverse engineer, decompile, or disassemble the Software
-(c) Remove or alter any copyright, trademark, or other proprietary notices
-(d) Rent, lease, lend, sell, sublicense, or transfer the Software
-(e) Use the Software for commercial purposes without a commercial license
-(f) Create derivative works based on the Software
-(g) Use the Software in any manner that violates applicable laws or regulations
 
-5. INTELLECTUAL PROPERTY RIGHTS
+  - Copy, reproduce, or distribute the Software
+  - Modify, adapt, reverse engineer, decompile, or disassemble the Software
+  - Remove or alter any copyright, trademark, or proprietary notices
+  - Rent, lease, sell, sublicense, or transfer the Software or any license
+  - Share Pro licenses with other users or devices beyond your own
+  - Attempt to bypass, spoof, or circumvent trial or license verification
+  - Use the Software for any illegal purpose
+  - Create derivative works based on the Software
 
-The Software is protected by copyright laws and international copyright treaties, 
-as well as other intellectual property laws and treaties. The Software is licensed, 
-not sold. All title and intellectual property rights in and to the Software 
-(including but not limited to any images, text, and applets incorporated into the 
-Software) are owned by Licensor.
 
-6. UPDATES AND MAINTENANCE
+5. INTELLECTUAL PROPERTY
+------------------------
+The Software is licensed, not sold. All title and intellectual property
+rights in and to the Software — including but not limited to source code,
+UI design, graphics, and documentation — are owned by Licensor and protected
+by copyright law and international treaties.
 
-Licensor may provide updates, patches, or enhancements to the Software at its 
-discretion. Such updates are subject to the terms of this Agreement unless 
-accompanied by a separate license agreement.
 
-7. TERMINATION
+6. OPEN SOURCE COMPONENTS
+--------------------------
+The Software is built using the following open source components, each
+governed by their respective MIT licenses:
 
-This Agreement is effective until terminated. Your rights under this Agreement will 
-terminate automatically without notice if You fail to comply with any term of this 
-Agreement. Upon termination, You must:
-(a) Cease all use of the Software
-(b) Destroy all copies of the Software in Your possession or control
+  - Electron (https://www.electronjs.org)
+  - electron-builder (https://www.electron.build)
+  - node-machine-id (https://github.com/automation-stack/node-machine-id)
 
-8. PRIVACY AND DATA COLLECTION
+A copy of the MIT license notices for these components is bundled within
+the distributed application package. The use of these components does not
+grant You any rights to the Vibelay source code or proprietary components.
 
-The Software collects minimal data for license verification and analytics:
-(a) A hashed machine identifier (for trial/license tracking)
-(b) Software version number
-(c) Platform information (macOS/Windows)
-(d) Installation date
-(e) Last usage date
 
-No personally identifiable information is collected. Data is stored securely and 
-never sold or shared with third parties.
+7. PRIVACY & DATA COLLECTION
+-----------------------------
+The Software collects minimal data for license and trial management,
+and anonymous product analytics:
 
-9. DISCLAIMER OF WARRANTIES
+  - Hashed machine identifier (one-way hash, cannot identify you)
+  - App version (e.g. "1.5.0")
+  - Platform (macOS / Windows)
+  - First install date and last seen date
+  - Anonymous usage events via PostHog (overlay type activated,
+    feature interactions, trial status — no personal data or
+    overlay content is ever included)
 
-THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR 
-IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR 
-A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE 
-SOFTWARE WILL MEET YOUR REQUIREMENTS OR THAT OPERATION OF THE SOFTWARE WILL BE 
-UNINTERRUPTED OR ERROR-FREE.
+No personal information, overlay content, browsing history, file names,
+or keyboard input is collected. Data is never sold or shared with third
+parties for advertising purposes.
 
-10. LIMITATION OF LIABILITY
+Full details: https://vibelay.vercel.app/privacy
 
-IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR 
-CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS 
-OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY 
-OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, 
-EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-LICENSOR'S TOTAL LIABILITY FOR ALL CLAIMS RELATING TO THE SOFTWARE SHALL NOT EXCEED 
-THE AMOUNT PAID BY YOU FOR THE SOFTWARE LICENSE.
+8. UPDATES
+----------
+Licensor may provide updates at its discretion. Minimum version
+requirements may be enforced for security reasons. You will be notified
+in-app before any forced update.
 
-11. REFUND POLICY
 
-(a) Trial users: No payment required during trial period
-(b) One-time Pro license: 30-day money-back guarantee
-(c) Monthly subscription: Cancel anytime, no partial refunds for current month
-(d) Refund requests: Contact support@vibelay.com
+9. TERMINATION
+--------------
+This Agreement is effective until terminated. Your rights terminate
+automatically without notice if You fail to comply with any term.
+Upon termination, You must cease all use and delete all copies of
+the Software.
 
-12. GOVERNING LAW
 
-This Agreement shall be governed by and construed in accordance with the laws of 
-[Your Jurisdiction], without regard to its conflict of law provisions.
+10. DISCLAIMER OF WARRANTIES
+-----------------------------
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+LICENSOR DOES NOT WARRANT UNINTERRUPTED OR ERROR-FREE OPERATION.
 
-13. ENTIRE AGREEMENT
 
-This Agreement constitutes the entire agreement between You and Licensor concerning 
-the Software and supersedes all prior or contemporaneous oral or written communications, 
-proposals, and representations with respect to the Software.
+11. LIMITATION OF LIABILITY
+----------------------------
+IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL,
+INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE USE
+OF OR INABILITY TO USE THE SOFTWARE.
 
-14. SEVERABILITY
+LICENSOR'S TOTAL LIABILITY FOR ALL CLAIMS SHALL NOT EXCEED THE AMOUNT
+PAID BY YOU FOR THE SOFTWARE LICENSE.
 
-If any provision of this Agreement is held to be unenforceable, such provision shall 
-be reformed only to the extent necessary to make it enforceable, and the remaining 
-provisions of this Agreement shall remain in full force and effect.
 
-15. CONTACT INFORMATION
+12. REFUND POLICY
+-----------------
+  - Trial users: No payment required during trial period
+  - Pro one-time license: 30-day money-back guarantee, no questions asked
+  - Refund requests: nmndwdi1001@gmail.com
 
-For questions about this Agreement or the Software:
-Website: https://vibelay.com
-Email: support@vibelay.com
 
-16. ACKNOWLEDGMENT
+13. GOVERNING LAW
+-----------------
+This Agreement shall be governed by applicable law. Any disputes shall
+be resolved in the appropriate courts of competent jurisdiction.
 
-BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS 
-AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS.
 
-Version 1.0
-Last Updated: February 24, 2026
+14. ENTIRE AGREEMENT
+--------------------
+This Agreement constitutes the entire agreement between You and Licensor
+concerning the Software and supersedes all prior communications,
+proposals, and representations.
+
+
+15. SEVERABILITY
+----------------
+If any provision of this Agreement is held unenforceable, it shall be
+reformed only to the extent necessary, and the remaining provisions shall
+remain in full force.
+
+
+16. CONTACT
+-----------
+For licensing inquiries, support, or refund requests:
+
+  Email:   nmndwdi1001@gmail.com
+  Website: https://vibelay.vercel.app
+  GitHub:  https://github.com/Nmndwdi/Vibelay
+
+
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ
+THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY ITS TERMS.
+
+==========================================
+Copyright (c) 2026 Naman Dwivedi / Vibelay. All Rights Reserved.
